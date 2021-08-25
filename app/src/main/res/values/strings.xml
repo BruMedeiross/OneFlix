@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OneFlix</string>
+    <string name="cast">Elenco: %1$s</string>
+    <string name="similar">Opções semelhantes </string>
+</resources>
+    <!--
+        %1$s essa referencia de dado dinamico a ser inserido
+        como final s é que sera uma string
+        %1$d por ex numero decimal ...etc
+        -->
